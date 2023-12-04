@@ -579,11 +579,12 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  background: #BCFFB6;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
+  color: #45505B;
 }
 
 .resume .resume-item ul {
@@ -606,7 +607,7 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
+  background: #BCFFB6;
   border: 2px solid #2BBC8A;
 }
 
@@ -987,16 +988,18 @@ section {
 
 .testimonials .testimonial-item .testimonial-img {
   width: 120px;
+  font-size: 50px;
   border-radius: 50%;
-  border: 4px solid #fff;
+  /* border: 4px solid #fff; */
   margin: 0 auto;
+  color: #EBFBEE;
 }
 
 .testimonials .testimonial-item h3 {
   font-size: 20px;
   font-weight: bold;
-  margin: 10px 0 5px 0;
-  color: #111;
+  margin: 7px 0 5px 0;
+  color: #BCFFB6;
 }
 
 .testimonials .testimonial-item h4 {
@@ -1026,7 +1029,7 @@ section {
 
 .testimonials .testimonial-item p {
   font-style: italic;
-  margin: 0 auto 15px auto;
+  margin: 10px auto 10px auto;
 }
 
 .testimonials .swiper-pagination {
